@@ -42,5 +42,8 @@
   <img src="https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the
 
 ---
-# 📊 Stats: 
-<p align="center"> [![](https://visitcount.itsvg.in/api?id=TongHere&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TongHere&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TongHere&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TongHere&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
