@@ -40,8 +40,3 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TongHere&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-
