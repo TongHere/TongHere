@@ -42,5 +42,5 @@
   <img src="https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the
 
 ---
-## 📊 Stats:
-[![](https://visitcount.itsvg.in/api?id=TongHere&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📊 Stats: 
+<p align="center"> [![](https://visitcount.itsvg.in/api?id=TongHere&icon=0&color=0)](https://visitcount.itsvg.in)
