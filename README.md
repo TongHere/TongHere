@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 🌱Hi, This is Tong. <br>⚡I am an enthusiastic AI technologist with a strong passion for generative AI. My experience centers around using APIs and open-source models to integrate into practical applications. My focus is on evaluating the performance of AI models, delving into the intricacies of human and machine collaboration, and developing AI solutions that meet market needs and exceed user expectations.<br>
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 </p>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
